@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\phray\source\repos\main\main\main.cpp(59,28): warning C4244: return: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\phray\source\repos\main\main\main.cpp(65,20): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  main.vcxproj -> C:\Users\phray\source\repos\main\x64\Debug\main.exe
